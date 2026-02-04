@@ -1,0 +1,32 @@
+{
+  "LIGHT_ON": [
+    "turn on the lights",
+    "switch the headlights on",
+    "lights on please"
+  ],
+  "LIGHT_OFF": [
+    "turn off the lights",
+    "switch headlights off",
+    "lights off"
+  ],
+  "AC_ON": [
+    "turn on the air conditioning",
+    "start ac",
+    "enable cooling"
+  ],
+  "AC_OFF": [
+    "turn off the ac",
+    "disable cooling",
+    "stop air conditioning"
+  ],
+  "PLAY_MUSIC": [
+    "play some music",
+    "start music",
+    "play songs"
+  ],
+  "STOP_MUSIC": [
+    "stop the music",
+    "pause songs",
+    "music off"
+  ]
+}
