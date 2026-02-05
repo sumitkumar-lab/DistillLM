@@ -1,0 +1,19 @@
+# Core ML
+torch>=2.0.0
+transformers>=4.36.0
+
+# Data handling
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+
+# LLM teacher access (choose one)
+openai>=1.0.0
+anthropic>=0.7.0
+
+# UI (Embedded HMI Simulator)
+streamlit>=1.28.0
+
+# Utilities
+tqdm>=4.65.0
+python-dotenv>=1.0.0
