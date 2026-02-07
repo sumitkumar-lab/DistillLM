@@ -50,7 +50,7 @@ The result:
 
 ---
 
-## 🏗️ System Architecture
+<!-- ## 🏗️ System Architecture
 
                  ┌────────────────────┐
 User utterance ─▶│  LLM Teacher       │
@@ -73,7 +73,7 @@ User utterance ─▶│  LLM Teacher       │
                       ▼
         ┌────────────────────────────────┐
         │ Embedded Device / Edge Runtime │
-        └────────────────────────────────┘
+        └────────────────────────────────┘ -->
 
 
 ```bash
